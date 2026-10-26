@@ -6,3 +6,4 @@ i built this because i wanted to find edm i liked for a long time, but while man
 
 k-OS is designed around two operating modes, play and generate. play directly triggers notes and manipulates sound using physical controls, whilst generative produces rhythms with controls for changing params (tempo, sound energy, scales, effects, glitch etc).
 
+

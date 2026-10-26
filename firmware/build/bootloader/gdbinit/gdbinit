@@ -1,0 +1,2 @@
+source /home/huangk/projects/k-os/firmware/build/bootloader/gdbinit/symbols
+source /home/huangk/projects/k-os/firmware/build/bootloader/gdbinit/connect
